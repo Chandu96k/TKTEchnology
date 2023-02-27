@@ -20,7 +20,7 @@ public class sumOfEven {
 				m++;
 			}
 			else
-				System.exit(0);
+				System.exit(0);//file updaed
 		}
 
 	}
